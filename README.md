@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm David 👋
+- 💬 Ask me about Front End Web Development
+- 🔭 I’m currently working on landing my next software engineering role
 
 <!--
 **dmargolies/dmargolies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
